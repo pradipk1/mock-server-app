@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "videogame",
+      "age": "34",
+      "gender": "male",
+      "country": "India",
+      "profession": "employed",
+      "id": 1
+    },
+    {
+      "name": "choco",
+      "age": "23",
+      "gender": "female",
+      "country": "India",
+      "profession": "student",
+      "id": 2
+    },
+    {
+      "name": "phone",
+      "age": "20",
+      "gender": "female",
+      "country": "India",
+      "profession": "",
+      "id": 3
+    },
+    {
+      "name": "cherry",
+      "age": "25",
+      "gender": "female",
+      "country": "US",
+      "profession": "employed",
+      "id": 4
+    }
+  ]
+}
